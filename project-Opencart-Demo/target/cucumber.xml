@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="1" time="52.756229">
+<testcase classname="Title of your feature" name="To check with valid credentails" time="52.756229">
+<system-out><![CDATA[Given the user launch the chrome application................................passed
+When the user creates a new account.........................................passed
+Then the user enters "lakshmichowdary440a@gmail.com" and "Glucky@196" and clicks.passed
+]]></system-out>
+</testcase>
+</testsuite>
